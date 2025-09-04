@@ -205,4 +205,3 @@ most-active-cookie/
 ├── setup.cfg               # Flake8 configuration
 └── README.md               # Project documentation
 ```
-
